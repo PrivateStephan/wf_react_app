@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+button {
+  background: cadetblue;
+  color: aliceblue;
+  padding: 5px;
+}
